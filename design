@@ -1,1 +1,9 @@
 placehold.it
+<img src="http://placehold.it/200x100">
+
+google.com/fonts
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+</head>
+css:
+font-family: font-family: 'Open Sans', sans-serif;
