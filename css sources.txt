@@ -11,3 +11,6 @@ Flex: https://developer.mozilla.org/en-US/docs/Web/CSS/flex
 Flex-wrap: https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap
 
 Another guide on flex: http://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Normalize
+<link rel="stylesheet" src="//normalize-css.google-code.com/svn/trunk/normalize.css">
