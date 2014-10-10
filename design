@@ -7,3 +7,6 @@ google.com/fonts
 </head>
 css:
 font-family: font-family: 'Open Sans', sans-serif;
+
+dev tools:
+https://developer.chrome.com/devtools/docs/shortcuts#opening-devtools
